@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Pal</h1>
-<h3 align="center">a Data Science Enthusiast passionate about solving real-world problems through Machine Learning and AI. 🎓 Currently pursuing a Master’s in Data Science, I thrive on turning data into actionable insights and building intelligent systems that drive innovation.</h3>
+<h3 align="center">A Data Science Enthusiast passionate about solving real-world problems through Machine Learning and AI. 🎓 Currently pursuing a Master’s in Data Science, I thrive on turning data into actionable insights and building intelligent systems that drive innovation.</h3>
 
 - 🔭 I’m currently working on [Crop-Recommendation-System](https://github.com/PankajPal78/Crop-Recommendation-System)
 
